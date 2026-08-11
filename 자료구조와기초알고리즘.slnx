@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="자료구조와기초알고리즘/자료구조와기초알고리즘.vcxproj" />
+</Solution>
